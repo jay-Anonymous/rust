@@ -43,7 +43,7 @@
     "dependencies": {
         "anser": "^2.1.1",
         "d3": "^7.6.1",
-        "d3-graphviz": "^5.0.2",
+        "d3-graphviz": "^5.2.0",
         "vscode-languageclient": "^8.0.2"
     },
     "devDependencies": {
